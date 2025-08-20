@@ -12,7 +12,7 @@
 - **Qué hace**: pide edad y dice si es mayor de edad (≥18).  
 - **Se usó**: entrada (`input` / `getLine`), conversión (`int` / `read`), `if/else`.
 
-2) **Verificación de contraseña (case-insensitive)**  
+2) **Verificación de contraseña **  
 - **Qué hace**: compara la contraseña ingresada con la guardada ignorando mayúsculas.  
 - **Se usó**: normalización (`.lower()` en Python; `Data.Char.toLower` en Haskell), booleanos y `if/else`.
 
