@@ -1,8 +1,8 @@
 # Taller-de-Haskell
 ## Cómo ejecutar
 - **Python**: `python3`
-- **Haskell (intérprete)**: `runghc haskell/problem7.hs`
-- **Haskell (compilar)**: `ghc haskell/problem7.hs -o p7 && ./p7`
+- **Haskell (intérprete)**: 
+- **Haskell (compilar)**:
 
 ---
 
@@ -52,8 +52,4 @@
   - Veg: **Espinaca** (1) o **Lechuga** (2)  
   - No veg: **Peperoni** (1), **Jamon** (2), **Carne** (3)  
 - **Se usó**: condicionales anidados simples sin listas ni `enumerate` (Python); en Haskell, `if`/guardas y concatenación.
-
----
-trones/guardas (Haskell).
-- Agregar validaciones de entrada (edades, división por cero).
-``
+- Se imprime la descripcion
