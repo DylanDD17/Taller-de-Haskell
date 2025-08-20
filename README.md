@@ -1,12 +1,12 @@
 # Taller-de-Haskell
 ## Cómo ejecutar
-- **Python**: `python3 python/problem7.py`
+- **Python**: `python3`
 - **Haskell (intérprete)**: `runghc haskell/problem7.hs`
 - **Haskell (compilar)**: `ghc haskell/problem7.hs -o p7 && ./p7`
 
 ---
 
-## Resumen de ejercicios (qué hacen y qué se usó)
+## Resumen de ejercicios (qué hacen y que se uso)
 
 1) **Verificador de edad legal**  
 - **Qué hace**: pide edad y dice si es mayor de edad (≥18).  
