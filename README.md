@@ -1,8 +1,8 @@
 # Taller-de-Haskell
 ## Cómo ejecutar
 - **Python**: `python3`
-- **Haskell (intérprete)**: 
-- **Haskell (compilar)**:
+- **Haskell (intérprete)**
+- **Haskell (compilar)**
 
 ---
 
